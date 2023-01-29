@@ -1,0 +1,7 @@
+{
+  "name": "bad gui",
+  "description": "fps disappears",
+  "author": "Scalesy",
+  "entry": "index.js",
+  "version":"1.0"
+}
