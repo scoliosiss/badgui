@@ -21,7 +21,7 @@ register("renderOverlay", function() {
     new drawbut(200, 250, 200, 50, "slider", "helo", "4", clickmetog()).togglebutton(-1000,1000);
     new drawbut(200, 300, 200, 50, "text box (hover over to type)", "helo", "5", clickmetog()).togglebutton();
     new drawbut(200, 350, 200, 50, "right click me", "helo", "2", clickmetog()).togglebutton(); // 7
-    new drawbut(200, 400, 200, 50, "ahhh secret button", "woah", "3", (clickmetog() && rightclickmerighttog())).togglebutton(); 
+   new drawbut(200, 400, 200, 50, "ahhh secret button", "woah", "3", (clickmetog() && rightclickmerighttog())).togglebutton(); 
   }
 })
 
